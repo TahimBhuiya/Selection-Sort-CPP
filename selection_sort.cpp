@@ -15,4 +15,11 @@ void selectionSort(int arr[], int n) {
                 minIndex = j; // Update minIndex if a smaller element is found
             }
         }
+
+        if (minIndex != i) { 
+            int temp = arr[i];     
+            arr[i] = arr[minIndex];
+            arr[minIndex] = temp;  
+        }
+    }
 }
