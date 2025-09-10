@@ -5,7 +5,8 @@ using namespace std;
 // Function to perform Selection Sort
 void selectionSort(int arr[], int n) {
 
-
+    // Traverse through the array
+    // i represents the current position in the array to place the correct minimum element
     for (int i = 0; i < n - 1; i++) {
-        int minIndex = i; 
+        int minIndex = i; // Assume the current element is the minimum in the unsorted portion
 }
