@@ -9,4 +9,11 @@ void selectionSort(int arr[], int n) {
     // i represents the current position in the array to place the correct minimum element
     for (int i = 0; i < n - 1; i++) {
         int minIndex = i; // Assume the current element is the minimum in the unsorted portion
+
+        
+        for (int j = i + 1; j < n; j++) {
+            if (arr[j] < arr[minIndex]) {
+                minIndex = j; 
+            }
+        }
 }
