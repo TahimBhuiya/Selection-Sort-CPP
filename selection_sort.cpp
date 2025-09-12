@@ -29,5 +29,5 @@ void printArray(int arr[], int n) {
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " "; // Print each element separated by a space
     }
-    cout << endl; 
+    cout << endl; // Move to the next line after printing the array
 }
