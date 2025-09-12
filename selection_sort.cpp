@@ -40,5 +40,6 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]);
 
     cout << "Original array: ";
+    printArray(arr, n); // Print the array before sorting
 
 }
