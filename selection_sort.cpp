@@ -39,4 +39,6 @@ int main() {
     // Calculate the number of elements in the array
     int n = sizeof(arr) / sizeof(arr[0]);
 
+    cout << "Original array: ";
+
 }
