@@ -32,4 +32,8 @@ void printArray(int arr[], int n) {
     cout << endl; // Move to the next line after printing the array
 }
 
-int main() {}
+int main() {
+    
+    int arr[] = {64, 25, 12, 22, 11};
+
+}
