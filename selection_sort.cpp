@@ -36,6 +36,7 @@ int main() {
     // Example array to sort
     int arr[] = {64, 25, 12, 22, 11};
 
+    // Calculate the number of elements in the array
     int n = sizeof(arr) / sizeof(arr[0]);
 
 }
