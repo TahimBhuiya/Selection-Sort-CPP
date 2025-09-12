@@ -46,6 +46,6 @@ int main() {
 
     cout << "Sorted array: ";
 
-    printArray(arr, n);
+    printArray(arr, n); // Print the array after sorting
 
 }
