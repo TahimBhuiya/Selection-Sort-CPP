@@ -44,4 +44,6 @@ int main() {
 
     selectionSort(arr, n); // Call selection sort function
 
+    cout << "Sorted array: ";
+
 }
