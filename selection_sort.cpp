@@ -33,7 +33,7 @@ void printArray(int arr[], int n) {
 }
 
 int main() {
-    
+    // Example array to sort
     int arr[] = {64, 25, 12, 22, 11};
 
 }
