@@ -16,10 +16,11 @@ void selectionSort(int arr[], int n) {
             }
         }
 
+        // Swap the found minimum element with the first element of the unsorted portion
         if (minIndex != i) { 
-            int temp = arr[i];     
-            arr[i] = arr[minIndex];
-            arr[minIndex] = temp;  
+            int temp = arr[i];     // Temporary variable to hold current element
+            arr[i] = arr[minIndex]; // Place minimum element at current position
+            arr[minIndex] = temp;  // Move the old current element to minIndex position
         }
     }
 }
