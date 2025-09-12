@@ -42,4 +42,6 @@ int main() {
     cout << "Original array: ";
     printArray(arr, n); // Print the array before sorting
 
+    selectionSort(arr, n); 
+
 }
