@@ -31,3 +31,5 @@ void printArray(int arr[], int n) {
     }
     cout << endl; // Move to the next line after printing the array
 }
+
+int main() {}
