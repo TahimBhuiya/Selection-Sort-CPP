@@ -3,7 +3,6 @@ using namespace std;
 
 // Function to perform Selection Sort
 void selectionSort(int arr[], int n) {
-
     // Traverse through the array
     // i represents the current position in the array to place the correct minimum element
     for (int i = 0; i < n - 1; i++) {
@@ -15,7 +14,6 @@ void selectionSort(int arr[], int n) {
                 minIndex = j; // Update minIndex if a smaller element is found
             }
         }
-
         // Swap the found minimum element with the first element of the unsorted portion
         if (minIndex != i) { 
             int temp = arr[i];     // Temporary variable to hold current element
@@ -49,5 +47,4 @@ int main() {
     printArray(arr, n); // Print the array after sorting
 
     return 0; // End of program
-
 }
