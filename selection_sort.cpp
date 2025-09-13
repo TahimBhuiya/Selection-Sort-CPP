@@ -48,4 +48,6 @@ int main() {
 
     printArray(arr, n); // Print the array after sorting
 
+    return 0; 
+
 }
