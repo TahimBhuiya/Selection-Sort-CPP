@@ -17,3 +17,5 @@ It displays the array before and after sorting to help visualize how selection s
 - **Step-by-Step Sorting**: Selects and places the minimum element in its correct position.
 
 * **Simple Implementation**: Uses nested loops for clarity.
+
+* **Array Input**: Works with any array of integers defined in the code.
