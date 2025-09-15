@@ -19,3 +19,5 @@ It displays the array before and after sorting to help visualize how selection s
 * **Simple Implementation**: Uses nested loops for clarity.
 
 * **Array Input**: Works with any array of integers defined in the code.
+
+* **Fully Commented Code**: Easy to understand and modify.
