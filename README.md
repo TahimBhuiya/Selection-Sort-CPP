@@ -11,3 +11,5 @@ This C++ program demonstrates the **Selection Sort** algorithm, a simple compari
 It displays the array before and after sorting to help visualize how selection sort organizes the elements.
 
 ---
+
+## 🔧 Features
