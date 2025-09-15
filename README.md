@@ -15,3 +15,5 @@ It displays the array before and after sorting to help visualize how selection s
 ## 🔧 Features
 
 - **Step-by-Step Sorting**: Selects and places the minimum element in its correct position.
+
+* **Simple Implementation**: Uses nested loops for clarity.
