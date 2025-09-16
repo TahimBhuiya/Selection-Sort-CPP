@@ -23,3 +23,5 @@ It displays the array before and after sorting to help visualize how selection s
 - **Fully Commented Code**: Easy to understand and modify.
 
 ---
+
+## 📋 Example Run
