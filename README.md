@@ -28,3 +28,4 @@ It displays the array before and after sorting to help visualize how selection s
 
 **Input:**
 Original array:
+64 25 12 22 11
