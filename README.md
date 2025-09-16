@@ -25,3 +25,5 @@ It displays the array before and after sorting to help visualize how selection s
 ---
 
 ## 📋 Example Run
+
+**Input:**
