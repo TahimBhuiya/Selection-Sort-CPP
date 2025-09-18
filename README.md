@@ -60,5 +60,5 @@ Sorted array:
 * Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
 ```bash
-
+g++ selection_sort.cpp -o selection_sort
 ```
