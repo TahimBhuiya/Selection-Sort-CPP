@@ -39,3 +39,4 @@ Sorted array:
 ## ⚙ How It Works
 
 1. **Iterate Through Array**
+   - The outer loop selects the position where the next minimum element should go.
