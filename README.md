@@ -45,3 +45,6 @@ Sorted array:
 3. **Swap Elements**
    - Swap the found minimum element with the first element of the unsorted portion.
 4. **Repeat**
+   - Continue until all elements are placed in sorted order.
+
+---
