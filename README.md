@@ -42,3 +42,4 @@ Sorted array:
    - The outer loop selects the position where the next minimum element should go.
 2. **Find Minimum Element**
    - The inner loop finds the minimum element in the unsorted portion of the array.
+3. **Swap Elements**
