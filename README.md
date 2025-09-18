@@ -50,3 +50,5 @@ Sorted array:
 ---
 
 ## 🛠 How to Run
+
+### You can run this code in two ways:
