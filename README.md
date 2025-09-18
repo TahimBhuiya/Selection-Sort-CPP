@@ -40,3 +40,4 @@ Sorted array:
 
 1. **Iterate Through Array**
    - The outer loop selects the position where the next minimum element should go.
+2. **Find Minimum Element**
