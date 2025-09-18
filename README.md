@@ -48,3 +48,5 @@ Sorted array:
    - Continue until all elements are placed in sorted order.
 
 ---
+
+## 🛠 How to Run
