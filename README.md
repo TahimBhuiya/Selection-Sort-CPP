@@ -43,3 +43,4 @@ Sorted array:
 2. **Find Minimum Element**
    - The inner loop finds the minimum element in the unsorted portion of the array.
 3. **Swap Elements**
+   - Swap the found minimum element with the first element of the unsorted portion.
