@@ -37,3 +37,5 @@ Sorted array:
 ---
 
 ## ⚙ How It Works
+
+1. **Iterate Through Array**
