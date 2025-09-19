@@ -69,3 +69,4 @@ g++ selection_sort.cpp -o selection_sort
 - Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
 
 * Paste the code
+* Run it directly in your browser.
